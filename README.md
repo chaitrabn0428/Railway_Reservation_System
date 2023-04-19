@@ -1,2 +1,2 @@
 # Railway_Reservation_System
-This is simple basic python project without database.
+This is simple basic python project without database using tkinter.
